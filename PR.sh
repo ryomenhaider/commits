@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration
-TOTAL_PRS=50              # Change this to the exact number of PRs you want
+TOTAL_PRS=15              # Change this to the exact number of PRs you want
 REPO_OWNER="ryomenhaider" # Your GitHub username
 REPO_NAME="commits"       # Your repository name
 TARGET_BRANCH="main"      # The base branch you want to merge into
